@@ -1,0 +1,115 @@
+
+.titre_index{ 
+text-align : center; 
+background-color : #08296c; 
+color : white;
+height : 8em;
+} 
+
+.titre{
+text-align : center;
+background-color : #08296c;
+color : white;
+}
+
+.sommaire {
+background-color : #B4C6E7;
+position : absolute ;
+top : 5em ;
+width : 10em;
+height : 50em ;
+left : 0.5em ;
+font-family : Calibri ;
+}
+
+
+.menu_index{
+background-color : #B4C6E7;
+position : absolute ;
+top : 10em ;
+width : 10em;
+left : 0.5em ;
+font-family : Calibri ;
+}
+
+.contenu_index{
+position : absolute;
+top : 10em ;
+left : 12em ;
+width : 80%;
+font-family : Arial ;
+font-size: large;
+}
+
+.gif_index{
+float: right;
+}
+
+.contenu{
+position : relative ;
+width : 82% ;
+left : 11.5em ;
+font-family : Arial ;
+line-height: 1;
+font-size: large;
+}
+
+a{
+color : #003F7E;
+}
+
+
+.logo_competition{
+text-align : center;
+}
+
+
+#vendee_globe{
+background-color : #002d4f;
+text-align : center;
+height : 200px;
+}
+
+#route_rhum{
+background-color : #006e79;
+text-align : center;
+height : 200px;
+}
+
+
+#jacques_vabre{
+background-color : #3b75b5;
+text-align : center;
+height : 200px;
+}
+
+#solitaire_figaro{
+background-color: #113148;
+text-align: center;
+height: 200px;
+}
+
+
+.skippers{ 
+font-family : Arial ;
+float : left;
+}
+
+
+.end_skippers{
+clear: both ;
+}
+
+
+#tabarly{
+font-family: Arial ;
+float : right;
+}
+
+.contenu_skippers{
+font-family : Arial ;
+}
+
+.img_voiliers_ports{
+text-align : center;
+}
